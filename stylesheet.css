@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'OPTIEngeEtienne';
+    src: url('OPTIEngeEtienne.woff2') format('woff2'),
+        url('OPTIEngeEtienne.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
